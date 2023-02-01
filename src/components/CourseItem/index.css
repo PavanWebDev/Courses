@@ -1,0 +1,17 @@
+.item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: fit-content;
+}
+
+.item > p {
+  color: #1e293b;
+  font-weight: 600;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+
+a {
+  text-decoration: none;
+}
